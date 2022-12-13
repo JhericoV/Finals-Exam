@@ -1,0 +1,95 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-image: url(3.svg);
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    
+}
+.name {
+    text-align: center;
+    height: 13px;
+}
+.address {
+    text-align: center;
+    font-size: 20px;
+    height: 1px;
+}
+.contact{
+    text-align: center;
+    font-size: 20px;
+}
+
+    
+
+.hr2 {
+    border: 5px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.hr3 {
+    border: 5px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.hr4 {
+    border: 5px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.hr5 {
+    border: 5px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    
+}
+.hr6 {
+    border: 5px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.music1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+li, a, button{
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;  
+}
+.nav{
+    list-style: none;
+}
+.nav li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+.nav li a{
+    transition: all 0.3s ease 0s;
+}
+.nav li a:hover{
+    color:  rgb(176, 212, 221);
+}
+.hp{
+    padding: 9px 15px;
+    background-color: black;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    
+}
+.hp:hover{
+    background-color: rgb(221, 207, 176);
+}
+.h69{
+    border: 5px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.nv{
+    color: black;
+}
